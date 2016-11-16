@@ -1,0 +1,21 @@
+h1 {
+    color: #4286f4;
+    font: arial;
+}
+
+h3 {
+    color: #37455b;
+    font: Helvetica;
+}
+
+p {
+    background-color: #684d91;
+}
+
+ul {
+    border: 2px solid blue;
+}
+
+h2 {
+    text-decoration: underline;
+}
