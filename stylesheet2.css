@@ -1,10 +1,9 @@
 h1 {
-    font: arial;
-    background-color: #ba9ee2;
+    font-family: "Arial", sans-serif;
 }
 
 h3 {
-    font: Helvetica;
+    font-family: "Helvetica", sans-serif;
     text-align: center;
 }
 
@@ -22,4 +21,43 @@ ul {
 h2 {
     text-decoration: underline;
     color: #e29ea4;
+    margin: 20px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+a:hover{
+    background-color: #D490A0;
+}
+
+.extreme{
+    border: 5px;
+    border-style: dotted; 
+    border-color: #2294BA;
+    border-radius: 10px;
+    background-color: #ba9ee2;
+}
+
+.navzone{
+    border-radius: 25px;
+    background: #90C3D4;
+}
+
+.content{
+    border: 2px;
+    border-style: double;
+    border-color: #A1D490;
+    clear: left;
+}
+
+.prose{
+    font-family: "Courier New", Courier, monospace;
+}
+
+#head1{ 
+    text-align: center;
+}
+
+#tehlulz{
+    background-color: #90D4C8;
+    cursor: crosshair;
 }
