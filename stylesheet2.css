@@ -11,6 +11,7 @@ p {
     text-decoration: line-through;
     text-decoration-color: #ba9ee2;
     text-align: center;
+    margin: auto;
 }
 
 ul {
